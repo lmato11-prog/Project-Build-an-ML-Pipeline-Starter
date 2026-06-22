@@ -6,6 +6,13 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## Project Links
+
+- **Weights & Biases project:** https://wandb.ai/lmato11-western-governor-university/nyc_airbnb
+- **GitHub repository:** https://github.com/lmato11-prog/Project-Build-an-ML-Pipeline-Starter
+
+**Author:** Luis Matos
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
@@ -62,6 +69,7 @@ file provided in the root of the repository and activate it:
 Let's make sure we are logged in to Weights & Biases. Get your API key from W&B by going to 
 [https://wandb.ai/authorize](https://wandb.ai/authorize) and click on the + icon (copy to clipboard), 
 then paste your key into this command:
+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
 
 ```bash
 > wandb login [your API key]
@@ -179,4 +187,8 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
-# Project-Build-an-ML-Pipeline-Starter-LM
+# Project-Build-an-ML-Pipeline-Starter
+
+W&B: https://wandb.ai/lmato11-western-governor-university/nyc_airbnb
+GitHub: https://github.com/lmato11-prog/Project-Build-an-ML-Pipeline-Starter
+
